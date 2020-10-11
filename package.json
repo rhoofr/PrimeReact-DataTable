@@ -1,0 +1,13 @@
+{
+  "main": "src/demo/DataTableDemo.js",
+  "dependencies": {
+    "react-transition-group": "^4.4.1",
+    "react-dom": "^16.13.1",
+    "react": "^16.13.1",
+    "primereact": "latest",
+    "primeicons": "4.0.0",
+    "primeflex": "2.0.0",
+    "classnames": "^2.2.6",
+    "axios": "^0.19.0"
+  }
+}
